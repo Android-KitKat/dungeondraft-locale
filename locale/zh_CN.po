@@ -1,0 +1,1376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dungeondraft\n"
+"POT-Creation-Date: 2025-02-28 00:00\n"
+"PO-Revision-Date: 2025-02-28 05:17\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"X-Generator: Godot Locale\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: dungeondraft\n"
+"X-Crowdin-Project-ID: 765767\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: text.pot\n"
+"X-Crowdin-File-ID: 2\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+
+msgid "        Thank you very much for purchasing Dungeondraft! If you run into any issues, please visit the Discord chat for support from me or the community. There are many video tutorials as well online on Youtube if you search Dungeondraft. Claim your download page or save the link to make it easier for you to update in the future. Show off your maps or find inspirations from the subreddit.\n\n"
+"Cheers,\n"
+"Megasploot\n"
+msgstr "        非常感谢您购买 Dungeondraft！如果您遇到任何问题，请访问 Discord 聊天以获取我或社区的支持。如果您在 Youtube 上搜索 Dungeondraft，也有很多视频教程。领取您的下载页面或保存链接，以便将来更容易更新。在 Reddit 子板块上展示您的地图或寻找灵感。\n\n"
+"干杯，\n"
+"Megasploot\n"
+
+msgid "  90° Turn"
+msgstr "  90° 旋转"
+
+msgid "  Brush Size"
+msgstr "  笔刷大小"
+
+msgid "  Curve"
+msgstr "  曲线"
+
+msgid "  Cycle"
+msgstr "  循环"
+
+msgid "  Delete"
+msgstr "  删除"
+
+msgid "  Erase"
+msgstr "  擦除"
+
+msgid "  Extend Existing"
+msgstr "  扩展现有"
+
+msgid "  Finish"
+msgstr "  完成"
+
+msgid "  Mirror"
+msgstr "  镜像"
+
+msgid "  Pan"
+msgstr "  平移"
+
+msgid "  Range"
+msgstr "  范围"
+
+msgid "  Remove Point"
+msgstr "  移除顶点"
+
+msgid "  Rotate"
+msgstr "  旋转"
+
+msgid "  Scale"
+msgstr "  缩放"
+
+msgid "  Shuffle"
+msgstr "  洗牌"
+
+msgid "  Slow Rotate"
+msgstr "  缓慢旋转"
+
+msgid "  Undo Point"
+msgstr "  撤销顶点"
+
+msgid "  Zoom"
+msgstr "  视图缩放"
+
+msgid " Default"
+msgstr " 默认"
+
+msgid "-100: Below Water"
+msgstr "-100: 水下"
+
+msgid "-200: Floor"
+msgstr "-200: 地面"
+
+msgid "-300: Caves"
+msgstr "-300: 洞穴"
+
+msgid "-400: Below Ground"
+msgstr "-400: 地下"
+
+msgid "-500: Terrain"
+msgstr "-500: 地形"
+
+msgid "000: Water"
+msgstr "000: 水面"
+
+msgid "1.1.1.0 newborn kirin"
+msgstr "1.1.1.0 新生麒麟"
+
+msgid "1/4th (64px)"
+msgstr "1/4 (64px)"
+
+msgid "1/8th (32px)"
+msgstr "1/8 (32px)"
+
+msgid "100: User Layer 1"
+msgstr "100: 用户层 1"
+
+msgid "200: User Layer 2"
+msgstr "200: 用户层 2"
+
+msgid "300: User Layer 3"
+msgstr "300: 用户层 3"
+
+msgid "3rd party licenses:\n"
+"    Open Font License, Copyright (c) 2010-2019, Google Corporation.\n"
+"    Godot Engine, Copyright (c) 2007-2019, Juan Linietsky, Ariel Manzur.\n"
+"    SkiaSharp, Copyright (c) 2015-2016 Xamarin, Inc. Copyright (c) 2017-2018 Microsoft Corporation.\n"
+"\tIncluded Mods:\n"
+"\t    Custom Snap by Hieronymos"
+msgstr "第三方许可证：\n"
+"    Open Font License, Copyright (c) 2010-2019, Google Corporation.\n"
+"    Godot Engine, Copyright (c) 2007-2019, Juan Linietsky, Ariel Manzur.\n"
+"    SkiaSharp, Copyright (c) 2015-2016 Xamarin, Inc. Copyright (c) 2017-2018 Microsoft Corporation.\n"
+"\t包含的模组：\n"
+"\t    Hieronymos 的自定义吸附"
+
+msgid "40\" TV"
+msgstr "40″ 电视"
+
+msgid "400: User Layer 4"
+msgstr "400: 用户层 4"
+
+msgid "500: Portals"
+msgstr "500: 门窗"
+
+msgid "55\" TV"
+msgstr "55″ 电视"
+
+msgid "600: Walls"
+msgstr "600: 墙壁"
+
+msgid "700: Above Walls"
+msgstr "700: 墙壁上方"
+
+msgid "800: Roofs"
+msgstr "800: 屋顶"
+
+msgid "900: Above Roofs"
+msgstr "900: 屋顶上方"
+
+msgid "A3 Paper"
+msgstr "A3 纸"
+
+msgid "A4 Paper"
+msgstr "A4 纸"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Above Roofs"
+msgstr "屋顶上方"
+
+msgid "Above Walls"
+msgstr "墙壁上方"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Acquiring more minerals..."
+msgstr "获取更多矿物……"
+
+msgid "Add current color as a preset."
+msgstr "将当前颜色添加为预设。"
+
+msgid "Alert!"
+msgstr "警告！"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Allow 3rd party mapping software to use this pack"
+msgstr "允许第三方地图软件使用此包"
+
+msgid "Allow Light"
+msgstr "允许光线"
+
+msgid "Ambient Light"
+msgstr "环境光"
+
+msgid "Anchored"
+msgstr "锚定"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Are you sure you want to forget this prefab forever? Any instance will still need to be deleted manually."
+msgstr "您确定要永久忘记此预制件吗？任何实例仍需要手动删除。"
+
+msgid "Asset Name"
+msgstr "资源名称"
+
+msgid "Assets"
+msgstr "资源"
+
+msgid "Assets Folder:"
+msgstr "资源文件夹："
+
+msgid "Author:"
+msgstr "作者："
+
+msgid "Automatic backups"
+msgstr "自动备份"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Background Color"
+msgstr "背景颜色"
+
+msgid "Backup every"
+msgstr "备份间隔"
+
+msgid "Base Folder:"
+msgstr "基础文件夹："
+
+msgid "Below Ground"
+msgstr "地下"
+
+msgid "Below Water"
+msgstr "水下"
+
+msgid "Best Quality"
+msgstr "最佳质量"
+
+msgid "Bevel Corners"
+msgstr "倒角"
+
+msgid "Biome"
+msgstr "生物群系"
+
+msgid "Blast Open"
+msgstr "爆破开放"
+
+msgid "Blend Distance"
+msgstr "混合距离"
+
+msgid "Block Light"
+msgstr "阻挡光线"
+
+msgid "Border Color"
+msgstr "边框颜色"
+
+msgid "Border Width"
+msgstr "边框宽度"
+
+msgid "Boundary"
+msgstr "边界"
+
+msgid "Brightness"
+msgstr "亮度"
+
+msgid "Bring to Front"
+msgstr "置于顶层"
+
+msgid "Browse"
+msgstr "浏览"
+
+msgid "Browse..."
+msgstr "浏览…"
+
+msgid "Brush"
+msgstr "笔刷"
+
+msgid "Brush Mode"
+msgstr "笔刷模式"
+
+msgid "Brush Size"
+msgstr "笔刷大小"
+
+msgid "Building Tool"
+msgstr "建筑工具"
+
+msgid "Building Wear"
+msgstr "建筑磨损"
+
+msgid "Camera Filter"
+msgstr "相机滤镜"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cave"
+msgstr "洞穴"
+
+msgid "Cave Brush"
+msgstr "洞穴笔刷"
+
+msgid "Center"
+msgstr "居中"
+
+msgid "Change Map Size"
+msgstr "更改地图大小"
+
+msgid "Check All"
+msgstr "全选"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Clone Level:"
+msgstr "克隆关卡："
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Commercial Print"
+msgstr "商业印刷"
+
+msgid "Compare Levels"
+msgstr "对比关卡"
+
+msgid "Compare Levels Options"
+msgstr "对比关卡选项"
+
+msgid "Complexity"
+msgstr "复杂性"
+
+msgid "Computing useless data..."
+msgstr "计算无用数据……"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Copying code from Stack Overflow..."
+msgstr "从 Stack Overflow 复制代码……"
+
+msgid "Copyright (c) 2020-2024, Tailwind Games, LLC [Megasploot]"
+msgstr "Copyright (c) 2020-2024, Tailwind Games, LLC [Megasploot]"
+
+msgid "Corner"
+msgstr "角落"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Create Tag Overrides"
+msgstr "创建标签覆盖"
+
+msgid "Create or select a location to hold assets"
+msgstr "创建或选择一个位置来存放资源"
+
+msgid "Create or select a location to hold mods"
+msgstr "创建或选择一个位置来存放模组"
+
+msgid "Crop"
+msgstr "裁剪"
+
+msgid "Current Level"
+msgstr "当前关卡"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Custom Assets"
+msgstr "自定义资源"
+
+msgid "Custom Color"
+msgstr "自定义颜色"
+
+msgid "Custom Snap Settings"
+msgstr "自定义吸附设置"
+
+msgid "Custom asset packs used"
+msgstr "使用的自定义资产包"
+
+msgid "Custom fonts directory"
+msgstr "自定义字体目录"
+
+msgid "Cut"
+msgstr "剪切"
+
+msgid "Cutting the red wire..."
+msgstr "剪断红线……"
+
+msgid "Dashes"
+msgstr "破折号"
+
+msgid "Deciphering misspelled asset filenames..."
+msgstr "破译拼写错误的资源文件名……"
+
+msgid "Deep Color"
+msgstr "深色"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Deleting a level is irreversible and will clear your undo history. Do you wish to continue?"
+msgstr "删除关卡是不可逆的，并且会清除您的撤销历史。您希望继续吗？"
+
+msgid "Density"
+msgstr "密度"
+
+msgid "Design"
+msgstr "设计"
+
+msgid "Dig Cave"
+msgstr "挖掘洞穴"
+
+msgid "Disable Border"
+msgstr "禁用边框"
+
+msgid "Disable Building Wear"
+msgstr "禁用建筑磨损"
+
+msgid "Disable Default Assets"
+msgstr "禁用默认资源"
+
+msgid "Disable Object Shadow"
+msgstr "禁用对象阴影"
+
+msgid "Disable Wall Shadow"
+msgstr "禁用墙壁阴影"
+
+msgid "Discard"
+msgstr "丢弃"
+
+msgid "Discord Support"
+msgstr "Discord 支持"
+
+msgid "Displaying useless information..."
+msgstr "显示无用信息……"
+
+msgid "Dormer"
+msgstr "天窗"
+
+msgid "Dotted"
+msgstr "点状"
+
+msgid "Dungeon"
+msgstr "地牢"
+
+msgid "Edge"
+msgstr "边缘"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit Asset Pack Selection"
+msgstr "编辑资产包选择"
+
+msgid "Edit Object Tags"
+msgstr "编辑对象标签"
+
+msgid "Edit Points"
+msgstr "编辑顶点"
+
+msgid "Edit Sets"
+msgstr "编辑集合"
+
+msgid "Edit Tags"
+msgstr "编辑标签"
+
+msgid "Effects"
+msgstr "效果"
+
+msgid "Embed thumbnails"
+msgstr "嵌入缩略图"
+
+msgid "Enable Advanced"
+msgstr "启用高级"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "Enabling webcam..."
+msgstr "启用摄像头……"
+
+msgid "Engaging emissions defeat device..."
+msgstr "启动排放故障装置……"
+
+msgid "Enlarge UI"
+msgstr "放大UI"
+
+msgid "Environment"
+msgstr "环境"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Exact"
+msgstr "精确"
+
+msgid "Example Template"
+msgstr "示例模板"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "Expand or crop the map"
+msgstr "扩展或裁剪地图"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "Export Mode"
+msgstr "导出模式"
+
+msgid "Export Options"
+msgstr "导出选项"
+
+msgid "Extremely large image. Will crash if memory allocation fails."
+msgstr "非常大的图像。如果内存分配失败，将会崩溃。"
+
+msgid "Fade"
+msgstr "淡入淡出"
+
+msgid "Fastening all seat belts..."
+msgstr "系紧所有安全带……"
+
+msgid "Field:"
+msgstr "字段："
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Fill"
+msgstr "填充"
+
+msgid "Filter"
+msgstr "过滤"
+
+msgid "Finish"
+msgstr "完成"
+
+msgid "Floor"
+msgstr "地板"
+
+msgid "Focus"
+msgstr "焦点"
+
+msgid "Font"
+msgstr "字体"
+
+msgid "Font Color"
+msgstr "字体颜色"
+
+msgid "Font Size"
+msgstr "字体大小"
+
+msgid "Forget"
+msgstr "忘记"
+
+msgid "Fox two..."
+msgstr "狐狸二号……"
+
+msgid "Freestanding"
+msgstr "独立式"
+
+msgid "Fuzzy"
+msgstr "模糊"
+
+msgid "Gable"
+msgstr "人字"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Generate"
+msgstr "生成"
+
+msgid "Generating new joke..."
+msgstr "生成新笑话……"
+
+msgid "Generating thumbnails..."
+msgstr "正在生成缩略图……"
+
+msgid "Generator"
+msgstr "生成器"
+
+msgid "Grid"
+msgstr "网格"
+
+msgid "Grid "
+msgstr "网格 "
+
+msgid "Grid Color"
+msgstr "网格颜色"
+
+msgid "Grid PPI"
+msgstr "网格PPI"
+
+msgid "Grid Presets"
+msgstr "网格预设"
+
+msgid "Grid Style"
+msgstr "网格样式"
+
+msgid "Ground Color"
+msgstr "地面颜色"
+
+msgid "Grow"
+msgstr "生长"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "Height"
+msgstr "高度"
+
+msgid "Hex #"
+msgstr "十六进制 #"
+
+msgid "Hip"
+msgstr "四坡"
+
+msgid "Hoarding additional memory..."
+msgstr "囤积额外内存……"
+
+msgid "Hold"
+msgstr "按住"
+
+msgid "Horizontal Offset (Right)"
+msgstr "水平偏移（右）"
+
+msgid "Horizontal Spacing"
+msgstr "水平间距"
+
+msgid "Hotbar"
+msgstr "热键栏"
+
+msgid "Hotbar buttons per row"
+msgstr "每行热键栏按钮数"
+
+msgid "Image File"
+msgstr "图像文件"
+
+msgid "Improving customer satisfaction..."
+msgstr "提高客户满意度……"
+
+msgid "In order to create custom assets for Dungeondraft, you will need to prepare a pack folder with the right structure. The example template unzips a pack folder with sample assets, ready to package. Certain types of assets like walls need additional data to work properly.\n\n"
+"When the assets and folder are ready, you can use the fields below to select the pack folder and package for distribution or personal use."
+msgstr "要为 Dungeondraft 创建自定义资源，您需要准备一个具有正确结构的包文件夹。将示例模板解压缩，获取包含示例资源的包文件夹以备打包。某些类型的资源（如墙壁）需要额外的数据才能正常工作。\n\n"
+"当资源和文件夹准备好后，您可以使用下面的字段选择包文件夹并打包以供分发或个人使用。"
+
+msgid "Increasing graphics card temperature..."
+msgstr "提高显卡温度……"
+
+msgid "Initiating the final countdown..."
+msgstr "启动最终倒计时……"
+
+msgid "Initiating wire transfer..."
+msgstr "启动电汇……"
+
+msgid "Inker"
+msgstr "墨水工"
+
+msgid "Intensity"
+msgstr "强度"
+
+msgid "Interface"
+msgstr "界面"
+
+msgid "Invalid JSON at: {0}"
+msgstr "无效的JSON在：{0}"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "Keywords"
+msgstr "关键词"
+
+msgid "Keywords:"
+msgstr "关键词："
+
+msgid "Label:"
+msgstr "标签："
+
+msgid "Large Horizontal Hex"
+msgstr "大水平六边形"
+
+msgid "Large Vertical Hex"
+msgstr "大型垂直六边形"
+
+msgid "Layer"
+msgstr "层"
+
+msgid "Layers"
+msgstr "层"
+
+msgid "Level Settings"
+msgstr "关卡设置"
+
+msgid "Library"
+msgstr "库"
+
+msgid "Light Tool"
+msgstr "灯光工具"
+
+msgid "Lighting"
+msgstr "照明"
+
+msgid "Lighting "
+msgstr "照明 "
+
+msgid "Lights"
+msgstr "灯光"
+
+msgid "Load full preview after hovering"
+msgstr "悬停后加载完整预览"
+
+msgid "Loading default assets..."
+msgstr "加载默认资源……"
+
+msgid "Loading will take longer when there are new assets"
+msgstr "当有新资源时，加载时间会更长"
+
+msgid "Lock"
+msgstr "锁定"
+
+msgid "Lock Aspect Ratio"
+msgstr "锁定宽高比"
+
+msgid "Locked Layers"
+msgstr "锁定层"
+
+msgid "Log errors"
+msgstr "记录错误"
+
+msgid "Looking for the missing pixel..."
+msgstr "寻找丢失的像素……"
+
+msgid "Looks like there is a new version of Dungeondraft available! Visit your purchases at Humble Bundle to update to the latest version:"
+msgstr "看起来 Dungeondraft 有新版本可用！访问您在 Humble Bundle 的购买以更新到最新版本："
+
+msgid "Make Prefab"
+msgstr "制作预制件"
+
+msgid "Manual"
+msgstr "手动"
+
+msgid "Map Information"
+msgstr "地图信息"
+
+msgid "Map Settings"
+msgstr "地图设置"
+
+msgid "Map Size"
+msgstr "地图大小"
+
+msgid "Map Wizard"
+msgstr "地图向导"
+
+msgid "Map size"
+msgstr "地图大小"
+
+msgid "Material"
+msgstr "材料"
+
+msgid "Material Brush"
+msgstr "材质笔刷"
+
+msgid "Maximum levels of undos"
+msgstr "最大撤销次数"
+
+msgid "Maximum number of backups kept"
+msgstr "保留的最大备份数量"
+
+msgid "Measuring human lifespan..."
+msgstr "测量人类寿命……"
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "Menu BG tint"
+msgstr "菜单背景色调"
+
+msgid "Merge Walls"
+msgstr "合并墙壁"
+
+msgid "Minimum Redness"
+msgstr "最小红色度"
+
+msgid "Minimum Saturation"
+msgstr "最小饱和度"
+
+msgid "Mirror"
+msgstr "镜子"
+
+msgid "Mod Panel"
+msgstr "模组面板"
+
+msgid "Mode"
+msgstr "模式"
+
+msgid "Mode  "
+msgstr "模式  "
+
+msgid "Mods"
+msgstr "模组"
+
+msgid "Mods Folder:"
+msgstr "模组文件夹："
+
+msgid "Move"
+msgstr "移动"
+
+msgid "Move to Front"
+msgstr "移至顶层"
+
+msgid "Mute JSON warnings and errors"
+msgstr "静音JSON警告和错误"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Name:"
+msgstr "名称："
+
+msgid "Narrow Line"
+msgstr "窄线"
+
+msgid "New"
+msgstr "新建"
+
+msgid "New Level Options"
+msgstr "新关卡选项"
+
+msgid "New Map"
+msgstr "新地图"
+
+msgid "New Template"
+msgstr "新模板"
+
+msgid "No Asset Packs Found"
+msgstr "未找到资产包"
+
+msgid "No custom tags were found. Would you like to copy the default tags for creating a custom override?"
+msgstr "未找到自定义标签。您是否要复制默认标签以创建自定义覆盖？"
+
+msgid "None"
+msgstr "无"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "Object Tool"
+msgstr "对象工具"
+
+msgid "Objects"
+msgstr "对象"
+
+msgid "Obtaining personal information..."
+msgstr "获取个人信息……"
+
+msgid "Okay"
+msgstr "好的"
+
+msgid "Opacity"
+msgstr "不透明度"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Open Recent"
+msgstr "打开最近"
+
+msgid "Open User Folder"
+msgstr "打开用户文件夹"
+
+msgid "Optimal Halved"
+msgstr "最佳减半"
+
+msgid "Outline"
+msgstr "轮廓"
+
+msgid "Output image size is larger than supported by the graphics card."
+msgstr "输出图像尺寸大于显卡支持的尺寸。"
+
+msgid "Output image size is larger than what the WEBP format supports."
+msgstr "输出图像尺寸大于WEBP格式支持的尺寸。"
+
+msgid "Over"
+msgstr "上方"
+
+msgid "Overlay Level"
+msgstr "叠加关卡"
+
+msgid "Override"
+msgstr "覆盖"
+
+msgid "Override Color"
+msgstr "覆盖颜色"
+
+msgid "Override custom color settings"
+msgstr "覆盖自定义颜色设置"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Pack"
+msgstr "打包"
+
+msgid "Pack: Name"
+msgstr "打包：名称"
+
+msgid "Package"
+msgstr "包"
+
+msgid "Package Custom Assets"
+msgstr "打包自定义资源"
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Path Tool"
+msgstr "路径工具"
+
+msgid "Paths"
+msgstr "路径"
+
+msgid "Pattern"
+msgstr "图案"
+
+msgid "Pattern Shape Tool"
+msgstr "图案形状工具"
+
+msgid "Patterns"
+msgstr "图案"
+
+msgid "Please Confirm..."
+msgstr "请确认……"
+
+msgid "Portal Tool"
+msgstr "门窗工具"
+
+msgid "Portals"
+msgstr "门窗"
+
+msgid "Prefabs"
+msgstr "预制件"
+
+msgid "Preferences"
+msgstr "偏好设置"
+
+msgid "Preparing ship for ludicrous speed..."
+msgstr "准备飞船进行荒谬速度……"
+
+msgid "Presets"
+msgstr "预设"
+
+msgid "Previous Tool"
+msgstr "上一个工具"
+
+msgid "Printer-Friendly"
+msgstr "适合打印"
+
+msgid "Quality"
+msgstr "质量"
+
+msgid "Quickbox"
+msgstr "选框"
+
+msgid "Range"
+msgstr "范围"
+
+msgid "Raw"
+msgstr "原始"
+
+msgid "Redness Tolerance"
+msgstr "红色容忍度"
+
+msgid "Redo"
+msgstr "重做"
+
+msgid "Reference Level"
+msgstr "参考关卡"
+
+msgid "Reload Mods"
+msgstr "重新加载模组"
+
+msgid "Remember that toggling the vanilla snap on or off will also turn the Custom Snap Mod's snap on or off. No need to return to this tool, simply press the 'S' key."
+msgstr "请记住，切换原版的吸附开关也会同时切换自定义吸附模组的吸附开关。无需返回此工具，只需按 'S' 键即可。"
+
+msgid "Remove Color"
+msgstr "移除颜色"
+
+msgid "Removing unnecessary lines of code..."
+msgstr "移除不必要的代码行……"
+
+msgid "Requesting all units..."
+msgstr "请求所有单位……"
+
+msgid "Reset Crop"
+msgstr "重置裁剪"
+
+msgid "Roll 20"
+msgstr "掷20"
+
+msgid "Roll20 Horizontal"
+msgstr "Roll20 水平"
+
+msgid "Roll20 Vertical"
+msgstr "Roll20 垂直"
+
+msgid "Roof Tool"
+msgstr "屋顶工具"
+
+msgid "Roofs"
+msgstr "屋顶"
+
+msgid "Rotate 180"
+msgstr "旋转180度"
+
+msgid "Rotation"
+msgstr "旋转"
+
+msgid "Rounded"
+msgstr "圆角"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save As"
+msgstr "另存为"
+
+msgid "Scale"
+msgstr "缩放"
+
+msgid "Scatter Tool"
+msgstr "散布工具"
+
+msgid "Sealing all entrances and exits..."
+msgstr "密封所有出入口……"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search using regular expressions"
+msgstr "使用正则表达式搜索"
+
+msgid "Searching through hidden folders..."
+msgstr "搜索隐藏文件夹……"
+
+msgid "Securing the package..."
+msgstr "保护包裹……"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Select All"
+msgstr "全选"
+
+msgid "Select the location of the raw assets"
+msgstr "选择原始资源的位置"
+
+msgid "Send to Back"
+msgstr "置于底层"
+
+msgid "Separate"
+msgstr "分离"
+
+msgid "Sepia"
+msgstr "深褐色"
+
+msgid "Set"
+msgstr "设置"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Shade"
+msgstr "阴影"
+
+msgid "Shade Contrast"
+msgstr "阴影对比"
+
+msgid "Shadow"
+msgstr "影子"
+
+msgid "Shadows"
+msgstr "阴影"
+
+msgid "Shallow Color"
+msgstr "浅色"
+
+msgid "Shape"
+msgstr "形状"
+
+msgid "Sharpen Fonts"
+msgstr "锐化字体"
+
+msgid "Shortcuts"
+msgstr "快捷键"
+
+msgid "Show Blast Opened Area"
+msgstr "显示爆破开放区域"
+
+msgid "Show Map Info"
+msgstr "显示地图信息"
+
+msgid "Show in Folder on Finish"
+msgstr "完成后在文件夹中显示"
+
+msgid "Shrink"
+msgstr "收缩"
+
+msgid "Shuffling random number generator..."
+msgstr "洗牌随机数生成器……"
+
+msgid "Skipping critical step..."
+msgstr "跳过关键步骤……"
+
+msgid "Small Horizontal Hex"
+msgstr "小水平六边形"
+
+msgid "Small Vertical Hex"
+msgstr "小垂直六边形"
+
+msgid "Smooth"
+msgstr "平滑"
+
+msgid "Smooth Blending"
+msgstr "平滑混合"
+
+msgid "Smoothness"
+msgstr "平滑度"
+
+msgid "Snap"
+msgstr "吸附"
+
+msgid "Snaps at every half grid unit"
+msgstr "每半个网格单位吸附"
+
+msgid "Soap"
+msgstr "肥皂"
+
+msgid "Sort Assets by"
+msgstr "按资源排序"
+
+msgid "Sorting"
+msgstr "排序"
+
+msgid "Source Level"
+msgstr "来源关卡"
+
+msgid "Spread"
+msgstr "扩散"
+
+msgid "Square"
+msgstr "方形"
+
+msgid "Start with Map Wizard"
+msgstr "使用地图向导开始"
+
+msgid "Step-by-Step Guide"
+msgstr "分步指南"
+
+msgid "Style"
+msgstr "风格"
+
+msgid "Subreddit Community"
+msgstr "Subreddit社区"
+
+msgid "Sun Direction"
+msgstr "太阳方向"
+
+msgid "Switch to Level on Creation"
+msgstr "创建时切换到关卡"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "Tags Browser"
+msgstr "标签浏览器"
+
+msgid "Template"
+msgstr "模板"
+
+msgid "Terrain"
+msgstr "地形"
+
+msgid "Terrain Brush"
+msgstr "地形笔刷"
+
+msgid "Terrain Selection"
+msgstr "地形选择"
+
+msgid "Testing user patience..."
+msgstr "测试用户耐心……"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Text Box"
+msgstr "文本框"
+
+msgid "Text Edit"
+msgstr "文本编辑"
+
+msgid "The trace image can be toggled by pressing the T key."
+msgstr "可以通过按T键切换跟踪图像。"
+
+msgid "These messages can be muted in Preferences"
+msgstr "这些消息可以在首选项中静音"
+
+msgid "These settings affect the detection of red color for custom color objects. Most users will want to leave thise alone."
+msgstr "这些设置影响自定义颜色对象红色检测。大多数用户会希望保持这些设置不变。"
+
+msgid "Thick Line"
+msgstr "粗线"
+
+msgid "To create a prefab, switch to the Select Tool, box select multiple items and click Make Prefab."
+msgstr "要创建一个预制件，切换到选择工具，框选多个项目并点击制作预制件。"
+
+msgid "Tool BG tint"
+msgstr "工具背景色调"
+
+msgid "Tool Name"
+msgstr "工具名称"
+
+msgid "Toolbar Name"
+msgstr "工具栏名称"
+
+msgid "Toolbar Title"
+msgstr "工具栏标题"
+
+msgid "Trace Image"
+msgstr "追踪图像"
+
+msgid "Transition In"
+msgstr "进入过渡"
+
+msgid "Transition Out"
+msgstr "退出过渡"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Uncheck All"
+msgstr "取消全选"
+
+msgid "Under"
+msgstr "下方"
+
+msgid "Undo"
+msgstr "撤销"
+
+msgid "Universal VTT"
+msgstr "通用 VTT"
+
+msgid "Unlock 4 more slots"
+msgstr "解锁4个额外槽位"
+
+msgid "Unsaved Changes"
+msgstr "未保存的更改"
+
+msgid "Update Available"
+msgstr "有可用更新"
+
+msgid "Used"
+msgstr "已使用"
+
+msgid "User Layer 1"
+msgstr "用户层1"
+
+msgid "User Layer 2"
+msgstr "用户层2"
+
+msgid "User Layer 3"
+msgstr "用户层3"
+
+msgid "User Layer 4"
+msgstr "用户层4"
+
+msgid "Version:"
+msgstr "版本："
+
+msgid "Vertical Offset (Down)"
+msgstr "垂直偏移（下）"
+
+msgid "Vertical Spacing"
+msgstr "垂直间距"
+
+msgid "Visible"
+msgstr "可见"
+
+msgid "WEBP"
+msgstr "WEBP"
+
+msgid "Wall"
+msgstr "墙壁"
+
+msgid "Wall Color"
+msgstr "墙壁颜色"
+
+msgid "Wall Tool"
+msgstr "墙壁工具"
+
+msgid "Walls"
+msgstr "墙壁"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Warning: If custom assets do not replace all asset types, some tools will break."
+msgstr "警告：如果自定义资源未替换所有资源类型，某些工具将无法使用。"
+
+msgid "Warning: Unlocking more slots can drastically reduce performance"
+msgstr "警告：解锁更多槽位可能会显著降低性能"
+
+msgid "Warning: You cannot undo a map size change. Please save or backup prior to continuing."
+msgstr "警告：您无法撤销地图大小的更改。请先保存或备份。"
+
+msgid "Water Brush"
+msgstr "水面笔刷"
+
+msgid "Welcome to Dungeondraft"
+msgstr "欢迎来到Dungeondraft"
+
+msgid "Widgets"
+msgstr "小部件"
+
+msgid "Width"
+msgstr "宽度"
+
+msgid "Window BG tint"
+msgstr "窗口背景色调"
+
+msgid "Writing positive review..."
+msgstr "撰写正面评价……"
+
+msgid "You are about to lose precious unsaved changes."
+msgstr "您即将丢失未保存的宝贵更改。"
+
+msgid "ex. C:\\Windows\\Fonts"
+msgstr "例如 C:\\Windows\\Fonts"
+
+msgid "minutes"
+msgstr "分钟"
+
+msgid "or"
+msgstr "或"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "split keywords with commas"
+msgstr "用逗号分隔关键词"
+
+msgid "update-to-date"
+msgstr "更新至最新"
+
+msgid "v0.0.0.0\n"
+"build name"
+msgstr "v0.0.0.0\n"
+"构建名称"
+
+msgid "v1.1.1.0\n"
+"newborn kirin"
+msgstr "v1.1.1.0\n"
+"新生麒麟"
+
+msgid "version"
+msgstr "版本"
+
