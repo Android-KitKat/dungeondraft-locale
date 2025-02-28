@@ -279,6 +279,9 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
+msgid "Cave"
+msgstr ""
+
 msgid "Cave Brush"
 msgstr ""
 
@@ -427,6 +430,9 @@ msgid "Dormer"
 msgstr ""
 
 msgid "Dotted"
+msgstr ""
+
+msgid "Dungeon"
 msgstr ""
 
 msgid "Edge"
