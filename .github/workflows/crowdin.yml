@@ -1,0 +1,45 @@
+name: Crowdin 集成
+
+on:
+  push:
+    branches: [main]
+
+  workflow_dispatch: {}
+
+jobs:
+  crowdin:
+    name: 同步 Crowdin
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出源文件
+        uses: actions/checkout@v4
+
+      - name: 上传原文到 Crowdin
+        env:
+          CROWDIN_PROJECT_ID: ${{ vars.CROWDIN_PROJECT_ID }}
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+        uses: crowdin/github-action@v2
+        with:
+          upload_sources: true
+
+      - name: AI 预翻译
+        env:
+          CROWDIN_PROJECT_ID: ${{ vars.CROWDIN_PROJECT_ID }}
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+        uses: crowdin/github-action@v2
+        with:
+          command: pre-translate
+          command_args: --method ai --ai-prompt=${{ vars.CROWDIN_PROMPT_ID }}
+
+      - name: 从 Crowdin 下载翻译
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CROWDIN_PROJECT_ID: ${{ vars.CROWDIN_PROJECT_ID }}
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+        uses: crowdin/github-action@v2
+        with:
+          upload_sources: false
+          download_translations: true
+          commit_message: 从 Crowdin 同步翻译
+          pull_request_title: 从 Crowdin 同步翻译
